@@ -1,4 +1,9 @@
 --------------------------------------------------------------
-*** Q9 ***
-Sum of all ratings is:None
+*** Q4 ***
+publisher_id	category
+34	Egitim
+34	Is Ekonomi - Hukuk
+34	Politika/Arastirma
+34	Roman
+34	Turk Oyku
 --------------------------------------------------------------

@@ -1,4 +1,4 @@
 --------------------------------------------------------------
-*** Insert into Publisher ***
-None publishers are inserted.
+*** Create tables ***
+Created 5 tables.
 --------------------------------------------------------------

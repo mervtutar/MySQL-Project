@@ -5,7 +5,7 @@ from queryresult import QueryResult
 from fileoperations import FileOperations
 
 user = "deneme"  # Your userName
-password = "p_deneme"  # Your password
+password = "m_deneme"  # Your password
 host = "localhost"  # host name
 database = "world"  # Your database name
 port = 3306  # port

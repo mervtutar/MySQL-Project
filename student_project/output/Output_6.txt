@@ -1,4 +1,5 @@
 --------------------------------------------------------------
-*** Q10 ***
-There are None rows in publisher table
+*** Q1 ***
+isbn	first_publish_year	page_count	publisher_name
+9786052116685	2018	408	Koc Universitesi Yayinlari
 --------------------------------------------------------------

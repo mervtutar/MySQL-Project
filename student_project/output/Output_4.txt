@@ -1,4 +1,4 @@
 --------------------------------------------------------------
-*** Q1 ***
-isbn	first_publish_year	page_count	publisher_name
+*** Insert into Book ***
+10 books are inserted.
 --------------------------------------------------------------
