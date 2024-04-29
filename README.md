@@ -1,5 +1,5 @@
 # MySQL Project
-## Yapay Zeka Uzmanlık Programı-Havelsa Veri Yönetimi Modül Projesi
+## Yapay Zeka Uzmanlık Programı-Havelsan Veri Yönetimi Modül Projesi
 
 Bu proje, bir kitabevinin veritabanı yönetimini sağlamak için geliştirilmiştir. Projenin ana hedefleri şunlardır:
 
